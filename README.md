@@ -2,7 +2,7 @@
 Program for SMeTD temperature sensors
 
 
-  This is a program to read six temperature sensors based on the MCP98078
+  This is a (Arduino) program to read six temperature sensors based on the MCP98078
   microchip.  It has been designed for Eva Loerke, a student at The James
   Hutton Institute, and will be used to measure the temperature of water
   at depths of: Surface, 5cm below surface and then further depths of 10cm, 20cm,
